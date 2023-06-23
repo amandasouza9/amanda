@@ -1,1 +1,1 @@
-# amanda-thiago
+# amanda
